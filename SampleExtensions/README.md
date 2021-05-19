@@ -1,0 +1,1 @@
+: This folder will have subfolder for each of the extension scenarios being documented on the main docs page, with files that are referenced in the docs (e.g. flows being created to solve a specific extension). The subfolder name will match with the extension topic description.
