@@ -7,7 +7,7 @@ products:
 urlFragment: microsoft-teams-app-profileplus
 ---
 
-# ProfilePlus App Template
+# Profileplus App Template
 
 | [Documentation]() | [Deployment guide]() | [Architecture]() |
 | ---- | ---- | ---- |
