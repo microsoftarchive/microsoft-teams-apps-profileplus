@@ -1,0 +1,1 @@
+This folder will contain the excel files for localization that are currently embedded in the canvas app.
