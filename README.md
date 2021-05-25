@@ -4,6 +4,20 @@ Profile+ help you quickly look up colleagues, understand org structure and roles
 
 Profile+ is a template application built on the [Datatverse for Teams](https://powerapps.microsoft.com/en-us/blog/reshape-the-future-of-work-with-microsoft-dataverse-for-teams-now-generally-available/) on the Power Platform. Once installed, it can be [customized and extended](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) by the installer of the application.
 
+## Installing
+
+Detailed documentation for installation can be found in the [Documents](https://github.com/OfficeDev/microsoft-teams-apps-profileplus/tree/main/Documentation) folder. There are two ways to install the solution:
+
+**Recommended: Install in Teams**
+
+This is the easiest and quickest method to get started with this app template. You will get the option to chose which Teams team you'd like to install this application in. The provisioning is fully automated once the process starts and may take upto 2 - 3 minutes. If this is the first Power Apps in the team, a new Dataverse for Teams environment will be provisioned, the app installed, automatically shared with all members of the team and tabbed to the channel you had picked in the first step. You will be able to [edit the app](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) after installation by going to the Power Apps app.
+
+Note that this provisions the 'managed' solution in the Teams environment. This means that you can take advantage of any future updates being made to the application by reinstalling the application (follow same steps as original installation).
+
+**Import the solution as unmanaged:**
+
+This option is for advanced makers already familiar with solutions and environments concepts in Dataverse. You can import the solution into Dataverse for Teams or Dataverse as unmanaged. By doing so, you get an unmanaged solution and will be able to make changes to all components of the application -- including underlying tables. Note that you will not be able to take advantage of future upgrades when importing solution as unmanaged.
+
 ## Contributing
 
 This project welcomes contributions and suggestions for extension scenarios. Please submit ideas for extending this application to unique scenarios within the 'SampleExtensions' folder. As you submit these ideas, create a new folder within that section and add resources (flow, canvas app codebase etc.) along with detailed instructions on how to add the extension to the app.
