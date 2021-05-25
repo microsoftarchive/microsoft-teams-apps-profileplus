@@ -1,6 +1,6 @@
 ## Overview
 
-Profile+ help you quickly look up colleagues, understand org structure and roles, and learn about open positions. The ability to filter by project and expertise creates new opportunities for like-minded people to find one another and connect. You can update your profile right from within Teams and express your personality by adding a video. Once you find someone you’d like to meet or collaborate with, it’s easy to introduce yourself in chat, give that person a call, or schedule a Teams meeting. Refer [here](https://link) for more detailed view of the feature.
+Profile+ help you quickly look up colleagues, understand org structure and roles, and learn about open positions. The ability to filter by project and expertise creates new opportunities for like-minded people to find one another and connect. You can update your profile right from within Teams and express your personality by adding a video. Once you find someone you’d like to meet or collaborate with, it’s easy to introduce yourself in chat, give that person a call, or schedule a Teams meeting. Refer [here](https://aka.ms/TeamsProfilePlusDocs) for more detailed view of the feature.
 
 Profile+ is a template application built on the [Datatverse for Teams](https://powerapps.microsoft.com/en-us/blog/reshape-the-future-of-work-with-microsoft-dataverse-for-teams-now-generally-available/) on the Power Platform. Once installed, it can be [customized and extended](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) by the installer of the application.
 
