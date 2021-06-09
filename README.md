@@ -8,9 +8,11 @@ Profile+ is a template application built on the [Datatverse for Teams](https://p
 
 Detailed documentation for installation can be found in the [Documents](https://github.com/OfficeDev/microsoft-teams-apps-profileplus/tree/main/Documentation) folder. There are two ways to install the solution:
 
-**Recommended: Install in Teams**
+**_Recommended_: Install in Teams**
 
-This is the easiest and quickest method to get started with this app template. You will get the option to chose which Teams team you'd like to install this application in. The provisioning is fully automated once the process starts and may take upto 2 - 3 minutes. If this is the first Power Apps in the team, a new Dataverse for Teams environment will be provisioned, the app installed, automatically shared with all members of the team and tabbed to the channel you had picked in the first step. You will be able to [edit the app](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) after installation by going to the Power Apps app.
+**This is the easiest and quickest method to get started with this app template.** The provisioning is fully automated once the process starts and may take upto 2 - 3 minutes. You will get the option to chose which Teams team you'd like to install this application in. Refer to these [easy step-by-step instructions](https://github.com/OfficeDev/microsoft-teams-apps-profileplus/blob/main/Documentation/Profile%20Plus%20-%20Install%20in%20Teams.pdf) on how to get started with Profile Plus app.
+
+If this is the first Power Apps in the team, a new Dataverse for Teams environment will be provisioned, the app installed, automatically shared with all members of the team and tabbed to the channel you had picked in the first step. You will be able to [edit the app](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) after installation by going to the Power Apps app.
 
 Note that this provisions the 'managed' solution in the Teams environment. This means that you can take advantage of any future updates being made to the application by reinstalling the application (follow same steps as original installation).
 
